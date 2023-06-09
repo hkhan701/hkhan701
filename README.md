@@ -1,6 +1,6 @@
 <h1 align="center"><img src="assets/blanketJam.webp" width="35"> Hello, I'm Hassan</h1>
 
-![Banner](./assets/banner.gif "Art by Anas Abdin <https://twitter.com/AnasAbdin/status/1644111386446798849/>")
+![Banner](./assets/banner.gif)
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
