@@ -11,6 +11,7 @@ I am an upcoming Full-Stack Web Developer based in Winnipeg MB, Canada. I am pas
 I have been coding for over 5 years and have experience with a wide range of technologies. Some of the technologies I use the most:
 
 <!-- Programming Languages -->
+[![JAVA][JAVA]][JAVA-url]
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 [![JavaScript][JavaScript]][JavaScript-url]
@@ -56,6 +57,8 @@ If you would like to get in touch with me, you can reach me at the following lin
 
 <!-- Coding Skills -->
 <!-- Programming Languages -->
+[JAVA]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[JAVA-url]: https://dev.java/
 [HTML]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
