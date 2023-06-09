@@ -1,6 +1,6 @@
 # Hello World, I'm Hassan
 
-![Banner](/assets/banner.gif "Art by Anas Abdin <https://twitter.com/AnasAbdin/status/1644111386446798849/>")
+![Banner](./assets/banner.gif "Art by Anas Abdin <https://twitter.com/AnasAbdin/status/1644111386446798849/>")
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
