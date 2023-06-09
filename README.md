@@ -119,7 +119,7 @@ If you would like to get in touch with me, you can reach me at the following lin
 
 <!-- Contact Me -->
 <!-- Links -->
-[Email]: https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white
+[Email]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Email-url]: mailto:hkhan701personal@gmail.com
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/hassankhan701/
