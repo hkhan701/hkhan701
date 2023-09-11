@@ -4,8 +4,6 @@
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt USD-1271217337 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 I am an upcoming Full-Stack Web Developer based in Winnipeg MB, Canada. I am passionate about building beautiful, intuitive, and performant web applications. I am currently working on a few personal projects and am always looking for new opportunities to learn and grow. As a teammember, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, enjoy working with chill folks, and people who know more than me.
 
 ## ![HACKERMANS](/assets/HACKERMANS1x.webp "HACKERMANS") Coding Skills
