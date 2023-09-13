@@ -11,20 +11,18 @@ I am an upcoming Full-Stack Web Developer based in Winnipeg MB, Canada. I am pas
 I have been coding for over 5 years and have experience with a wide range of technologies. Some of the technologies I use the most:
 
 <!-- Programming Languages -->
-[![JAVA][JAVA]][JAVA-url]
-[![HTML][HTML]][HTML-url]
-[![CSS][CSS]][CSS-url]
-[![JavaScript][JavaScript]][JavaScript-url]
-[![C++][C++]][C++-url]
-[![Python][Python]][Python-url]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 <!-- Frontend -->
-<!-- [![Tailwind-CSS][Tailwind-CSS]][Tailwind-CSS-url] -->
-<!-- [![Trpc][Trpc]][Trpc-url] -->
-[![React][React]][React-url]
-<!-- [![Next.js][Next.js]][Next.js-url] -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <!-- Backend -->
 <!-- [![Node.js][Node.js]][Node.js-url]
@@ -33,11 +31,8 @@ I have been coding for over 5 years and have experience with a wide range of tec
 [![Electron][Electron]][Electron-url] -->
 
 <!-- Databases -->
-[![MySQL][MySQL]][MySQL-url]
-[![SQLite][SQLite]][SQLite-url]
-<!-- [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
-[![redis][redis]][redis-url]
-[![MongoDB][MongoDB]][MongoDB-url] -->
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Software/Websites -->
 [![Git][Git]][Git-url]
