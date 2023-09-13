@@ -20,10 +20,10 @@ I have been coding for over 5 years and have experience with a wide range of tec
 
 
 <!-- Frontend -->
-<!-- [![Tailwind-CSS][Tailwind-CSS]][Tailwind-CSS-url]
-[![Trpc][Trpc]][Trpc-url]
+<!-- [![Tailwind-CSS][Tailwind-CSS]][Tailwind-CSS-url] -->
+<!-- [![Trpc][Trpc]][Trpc-url] -->
 [![React][React]][React-url]
-[![Next.js][Next.js]][Next.js-url] -->
+<!-- [![Next.js][Next.js]][Next.js-url] -->
 
 <!-- Backend -->
 <!-- [![Node.js][Node.js]][Node.js-url]
