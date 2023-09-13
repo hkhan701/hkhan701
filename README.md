@@ -15,7 +15,7 @@ I have been coding for over 5 years and have experience with a wide range of tec
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 [![JavaScript][JavaScript]][JavaScript-url]
-[![C][C][C-url]
+[![C][C]][C-url]
 [![Python][Python]][Python-url]
 
 
