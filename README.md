@@ -4,7 +4,11 @@
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
-I am an upcoming Full-Stack Web Developer based in Winnipeg MB, Canada. I am passionate about building beautiful, intuitive, and performant web applications. I am currently working on a few personal projects and am always looking for new opportunities to learn and grow. I am in my 3rd year of University and part of the co-op program, studying distributed systems, AI, and Statistics. As a team member, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, and enjoy working with chill folks, and people who know more than me.
+I am a highly skilled and motivated software engineer with a passion for developing innovative solutions.  I am also passionate about building beautiful, intuitive, and performant web applications. 
+
+With a strong foundation in computer science from the University of Manitoba, I am dedicated to continuous learning and driving technological advancements. I am in my 3rd year of University and part of the co-op program, currently studying distributed systems, AI, and statistics. As a team member, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, and enjoy working with people who know more than me.
+
+I am currently working on a few personal projects and always looking for new opportunities to learn and grow. I also run a 3D printing service, dabble in 3D modeling,  and love to tinker with robotics!
 
 ## ![HACKERMANS](/assets/HACKERMANS1x.webp "HACKERMANS") Coding Skills
 
