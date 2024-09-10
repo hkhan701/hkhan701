@@ -4,11 +4,13 @@
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
-I am a highly skilled and motivated software engineer with a passion for developing innovative solutions.  I am also passionate about building beautiful, intuitive, and performant web applications. 
+I am a highly skilled and motivated software engineer with a passion for developing innovative solutions and am passionate about building beautiful, intuitive, and performant software. 
 
-With a strong foundation in computer science from the University of Manitoba, I am dedicated to continuous learning and driving technological advancements. I am in my 3rd year of University and part of the co-op program, currently studying distributed systems, AI, and statistics. As a team member, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, and enjoy working with people who know more than me.
+With a strong foundation in computer science from the University of Manitoba, I am dedicated to continuous learning and driving technological advancements. I have completed my first co-op at Agri and Agrifood Canada as a software developer, and am currently on my second software developer internship with Conquest Planning. As a team member, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, and enjoy working with people who know more than me.
 
-I am currently working on a few personal projects and always looking for new opportunities to learn and grow. I also run a 3D printing service, dabble in 3D modeling,  and love to tinker with robotics!
+I am currently working on my latest project which is a SaaS product called Deal Dynamo. It is currently in the works and has generated over $170 in the past 2 months alone passively. I hope to expand and grow this in different domains. You can check it out below in my projects!
+
+I am always looking for new opportunities to learn and grow. I also run a 3D printing service, dabble in 3D modeling, and love to tinker with robotics!
 
 ## ![HACKERMANS](/assets/HACKERMANS1x.webp "HACKERMANS") Coding Skills
 
