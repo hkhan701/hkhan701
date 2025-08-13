@@ -5,8 +5,8 @@
 I am a professional keyboard toucher with a passion for developing products that solve problems and building beautiful, intuitive, and performant software. As a team member, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, and enjoy working with people who know more than me.
 
 Startups I am working on currently:
-- DealDynamo (5 clients) $150 MRR (monthly recurring revenue)
-- AffiliTap (18 weekly users) $0 MRR (for now)
+- DealDynamo (5 clients) $150 MRR
+- AffiliTap (59 weekly users) $0 MRR (for now)
 
 I am always looking for new opportunities to learn and grow. I also run a 3D printing service, dabble in 3D modeling, and love to tinker with robotics! I also love building and flying FPV drones!
 
