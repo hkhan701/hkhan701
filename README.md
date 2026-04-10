@@ -2,13 +2,15 @@
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
-I am a professional keyboard toucher with a passion for developing products that solve problems and building beautiful, intuitive, and performant software. As a team member, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, and enjoy working with people who know more than me.
+hi! I love to build things that excite people or genuinely solve problems, whether that’s through automation or building intuitive designs that look good. i’ve been coding since I got an arduino in grade 6 and fell in love ever since. 
 
-Startups I am working on currently:
-- DealDynamo (5 clients) $150 MRR
-- AffiliTap (105+ weekly users) $0 MRR (for now)
+check out some of my recent endeavours…
 
-I am always looking for new opportunities to learn and grow. I also run a 3D printing service, dabble in 3D modeling, and love to tinker with robotics! I also love building and flying FPV drones!
+- **reporoast** - roasts your github repo (2.6k+ repos roasted so far)
+- **affilitap** - amazon affiliate automation chrome extension (160+ users)
+- **dealdynamo -** amazon scraper + automated deal posting - $150 MRR
+
+outside of coding and personal projects, I enjoy going to the gym, building and flying fpv drones, run my 3d printing service, and robotics.
 
 ## ![HACKERMANS](/assets/HACKERMANS1x.webp "HACKERMANS") Coding Skills
 
