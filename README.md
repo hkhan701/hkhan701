@@ -1,4 +1,9 @@
-<h1 align="center"><img src="assets/blanketJam.webp" width="35"> Hello, I'm Hassan</h1>
+<h1 align="center">
+  <img src="assets/cat_slap" width="35">
+  Hello, I'm Hassan
+</h1>
+
+
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
