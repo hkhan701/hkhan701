@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/cat_slap" width="35">
+  <img src="assets/cat_slap.gif" width="35">
   Hello, I'm Hassan
 </h1>
 
